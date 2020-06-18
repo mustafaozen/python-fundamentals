@@ -1,4 +1,3 @@
-# python_fundamentals
 # Python 3 Fundamentals
 This repository has been created for education purposes. It provides simple introductory examples for:
 
