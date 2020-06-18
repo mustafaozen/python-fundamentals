@@ -1,0 +1,4 @@
+This file contains example data:
+Data 1: 12345
+Data 2: AbcDe
+Data 3: 12Vg4
