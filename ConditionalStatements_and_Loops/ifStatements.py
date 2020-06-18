@@ -9,10 +9,8 @@ https://docs.python.org/3/tutorial/controlflow.html#if-statements
 print('The first example:')
 condition = True
 if condition == True:
-    # run this command
     print('Condition is true!')
 else:
-    # run this command
     print('Condition is false!')
 
 # Actually no need to type "== True" if the variable under control is boolean!
@@ -20,10 +18,8 @@ print('\n The second example:')
 
 condition = False
 if condition:
-    # run this command
     print('Condition is true!')
 else:
-    # run this command
     print('Condition is false!')
 
 # Multiple conditions can be checked using "elif"
