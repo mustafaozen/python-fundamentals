@@ -1,5 +1,5 @@
 # Python 3 Fundamentals
-This repository has been created for education purposes. It provides simple introductory examples for:
+This repository has been created for educational purposes. It provides simple introductory examples for:
 
 1. Data types: Strings, Numbers, Tuples, Lists, Dictionaries
 2. Conditional statements and Loops: If Statements, for loop, nested for loop, while loop, break and continue statements
