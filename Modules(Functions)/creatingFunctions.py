@@ -27,7 +27,7 @@ print('2 to the power 8 is: ', pow2, '\n')
 
 ## Lambda Expressions ##
 
-# Lambda expressions are defined as anonymous functions. This is another way of definin the functions.
+# Lambda expressions are defined as anonymous functions. This is another way of defining the functions.
 
 fun = lambda n,p: n ** p
 pow3 = fun(7,2)
